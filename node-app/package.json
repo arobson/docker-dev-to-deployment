@@ -1,0 +1,14 @@
+{
+  "name": "docker-app",
+  "version": "0.1.0",
+  "description": "A docker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me!",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+  	"express" : "~3.4.7"
+  }
+}
